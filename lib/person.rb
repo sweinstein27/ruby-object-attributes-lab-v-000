@@ -1,10 +1,10 @@
 class Person
 
-  def Person
+  def name
     @name
   end
 
-  def Person=(new_name)
+  def name=(new_name)
     @name = new_name
   end
 
